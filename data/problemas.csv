@@ -1,0 +1,15 @@
+Site não abre, DNS não configurado corretamente,	Verificar e corrigir os apontamentos de DNS no painel do Registro.br.
+Domínio expirado,	O domínio não foi renovado dentro do prazo,	Renovar o domínio no painel do Registro.br.
+Erro 404 – Página não encontrada,	Arquivo inexistente ou link incorreto,	Verificar o nome e a localização dos arquivos e ajustar links.
+Falha no envio de e-mails,	Configuração SMTP incorreta	Checar usuário, senha e servidor SMTP nas configurações.
+Site não é seguro (HTTPS ausente),	Certificado SSL não instalado,	Instalar ou renovar o certificado SSL no painel da Hostinger.
+Site lento,	Uso excessivo de recursos ou hospedagem compartilhada,Otimizar o site e considerar upgrade de plano.
+Erro interno do servidor,	Problemas no .htaccess ou permissões de arquivo, Renomear o .htaccess temporariamente e revisar permissões.
+Falha na conexão MySQL,	Credenciais incorretas no arquivo de configuração,	Corrigir usuário, senha e nome do banco no arquivo de conexão.
+Não é possível conectar via FTP,	Firewall bloqueando porta ou credenciais erradas,	Verificar login e liberar portas 21 e 22 no firewall.
+Caixa de entrada cheia,	Limite de espaço atingido,	Apagar e-mails antigos ou aumentar espaço da conta.
+Acesso proibido	Permissões incorretas de arquivo,	Ajustar permissões para 644 (arquivos) e 755 (pastas).
+Erro ao conectar ao banco,	Serviço de banco de dados inativo,	Reiniciar serviço no painel da Locaweb.
+Domínio não aponta para hospedagem,	DNS configurado em outro servidor,	Atualizar os nameservers no Registro.br.
+Timeout de conexão,	Sobrecarga no servidor,	Entrar em contato com o suporte técnico.
+Não consigo alterar DNS,	Domínio vinculado a outro usuário,	Solicitar transferência de titularidade.
